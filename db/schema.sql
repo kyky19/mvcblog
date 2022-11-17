@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS hotake_db;
+CREATE DATABASE hotake_db;
