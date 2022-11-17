@@ -9,6 +9,7 @@
   * [Credits](#credits)
   ## Description
   An app that allows users to create an account and make posts online. Users can also delete posts as well as comment on other users posts. 
+  
   ![techex](https://user-images.githubusercontent.com/106569591/202415586-16418477-026c-46c7-b158-eaddec3a8736.png)
   ![post](https://user-images.githubusercontent.com/106569591/202415599-d7df5471-e95e-4786-87a5-c306cd27ff1c.png)
 
